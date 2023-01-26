@@ -106,7 +106,7 @@ Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> ex
   <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"></code>
   </div>
 </div>    
-
+</br>
   <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=rockstarcoder333&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="rockstarcoder333" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rockstarcoder333&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="rockstarcoder333" align = "center"/></p>
