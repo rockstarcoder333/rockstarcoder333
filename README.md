@@ -20,6 +20,7 @@
 I'm thrilled to introduce myself as a versatile professional, excelling in <b>Machine Learning</b>, <b>DevOps</b>, <b>Scripting</b> & <b>Automation</b>, <b>BlockChain</b>, and <b>Full Stack Web Development</b>. With a diverse skill set, I'm your dedicated partner in transforming intricate challenges into seamless, exceptional solutions.<br>
 I am a <b>self-motivated</b> expert with a solid work ethic and a productive <b>self-starter</b>, which alongside my aptitude for learning, keeps me updated. <br>
 I am an <b>ambitious man</b> with rich experience.<br>
+
 🤖 In the realm of Machine Learning, I possess an in-depth understanding of algorithms and frameworks, enabling me to engineer predictive models, craft intelligent applications through natural language processing, and design sophisticated computer vision solutions. As a DevOps enthusiast, I orchestrate seamless integration and delivery pipelines, leveraging automation to amplify development efficiency and ensure impeccable product delivery.<br>
 
 📜 Scripting & Automation? It's where I thrive. Whether it's crafting elegant scripts to simplify complex processes or architecting intricate automated workflows for peak efficiency, I take pride in turning complexity into simplicity.<br>
@@ -33,7 +34,8 @@ I am an <b>ambitious man</b> with rich experience.<br>
 🤝 Collaboration is my strength. I'm not just a developer; I'm a partner who comprehends your vision and works diligently to bring it to life.<br>
 
 ⏰ Availability:
-Ready to embark on this journey? I'm all set to dive in immediately, dedicating myself full-time to your projects. With a substantial 9-hour overlap in your timezones, communication will flow seamlessly, and progress will be rapid.
+Ready to embark on this journey? I'm all set to dive in immediately, dedicating myself full-time to your projects. With a substantial 9-hour overlap in your timezones, communication will flow seamlessly, and progress will be rapid.<br>
+
 Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> experiences.<br>
 </p>
 
