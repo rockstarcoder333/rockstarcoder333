@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align='center'>
-  AI | WEB | BLOCKCHAIN Developer 
+  AI | WEB | DEVOPS | BLOCKCHAIN Developer 
 </h4>
 
 <!-- <p align="center">
@@ -17,22 +17,32 @@
 ## 👩  About me:
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" width="400" />
 <p>
-I am working as a <b>AI</b> & <b>Web</b> for 11 years with <b>Blockchain</b> and have developed many projects according to clients' needs.<br>
+I'm thrilled to introduce myself as a versatile professional, excelling in <b>Machine Learning</b>, <b>DevOps</b>, <b>Scripting</b> & <b>Automation</b>, <b>BlockChain</b>, and <b>Full Stack Web Development</b>. With a diverse skill set, I'm your dedicated partner in transforming intricate challenges into seamless, exceptional solutions.<br>
 I am a <b>self-motivated</b> expert with a solid work ethic and a productive <b>self-starter</b>, which alongside my aptitude for learning, keeps me updated. <br>
 I am an <b>ambitious man</b> with rich experience.<br>
-Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.<br>
-Develop <b>high-quality</b> Mobile app for rapid deployment of bug fixes and new features using established development standards.<br>
-As an expert problem solver, responsive to client needs, and detail-oriented, I have a proven track record of consistently providing high levels of customer <b>satisfaction</b>.<br>
-I can contribute to your project as an individual <b>full-stack developer</b>. And if you want to work with our agency, I can lead teammates.<br>
+🤖 In the realm of Machine Learning, I possess an in-depth understanding of algorithms and frameworks, enabling me to engineer predictive models, craft intelligent applications through natural language processing, and design sophisticated computer vision solutions. As a DevOps enthusiast, I orchestrate seamless integration and delivery pipelines, leveraging automation to amplify development efficiency and ensure impeccable product delivery.<br>
+
+📜 Scripting & Automation? It's where I thrive. Whether it's crafting elegant scripts to simplify complex processes or architecting intricate automated workflows for peak efficiency, I take pride in turning complexity into simplicity.<br>
+
+🔗 Blockchain Expertise: I specialize in developing smart contracts and decentralized applications (DApps) on blockchain platforms, providing secure and transparent solutions for a variety of industries.
+
+💼 As a Full Stack Web Developer, I'm not just limited to the backend or frontend; I bridge the gap. From building captivating user interfaces that enhance user experience to architecting robust backend systems for smooth functionality, I ensure your web applications are intuitive, responsive, and feature-rich.<br>
+
+🌟 What sets me apart? It's my commitment to delivering excellence. My diverse skill set empowers me to tackle complex challenges head-on, and my penchant for staying up-to-date with the latest industry trends ensures that your projects are infused with cutting-edge technology. I pride myself on not just writing code, but crafting elegant and efficient solutions that drive real business value.<br>
+
+🤝 Collaboration is my strength. I'm not just a developer; I'm a partner who comprehends your vision and works diligently to bring it to life.<br>
+
+⏰ Availability:
+Ready to embark on this journey? I'm all set to dive in immediately, dedicating myself full-time to your projects. With a substantial 9-hour overlap in your timezones, communication will flow seamlessly, and progress will be rapid.
 Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> experiences.<br>
 </p>
 
 <h2>🥇 Specialised in:</h2>
-<p>🔸 ML/DL - Tensorflow, Keras, Pytorch
+<p>🔸 ML/DL - Tensorflow, Keras, Pytorch, Paddle
 <br>🔸 BlockChain - Web3, Dapp, NFT Marketplace
 <br>🔸 DAO, DEX, Ethereum, Solidity, Smart Contract
-<br>🔸 FrontEnd - React.js, Vue.js, AngularJS
-<br>🔸 BackEnd - Flask, Django, Node, Express, Laravel
+<br>🔸 FrontEnd - React.js, Vue.js, AngularJS, NextJS, NuxtJS
+<br>🔸 BackEnd - Flask, Django, FastAPI, NodeJS, ExpressJS, Laravel, NestJS, .NET
 <p>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
